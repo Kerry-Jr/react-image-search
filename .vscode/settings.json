@@ -1,0 +1,16 @@
+{
+   "emmet.syntaxProfiles": {
+   
+   },
+   "files.autoSave": "afterDelay",
+   "emmet.excludeLanguages": [
+
+
+      "markdown"
+   ],
+   
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   },
+   "editor.renameOnType": true
+}
