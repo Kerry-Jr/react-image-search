@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a6080a-7adf-4fbd-9300-3162e8b82751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apiKey.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageList.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/unsplash.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/unsplash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -45,8 +54,13 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.meteor" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\StephenGriderUdemy\ReactRedux\pics\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +78,17 @@
       <workItem from="1607650937667" duration="1576000" />
       <workItem from="1607719432996" duration="5193000" />
       <workItem from="1607748043671" duration="4267000" />
-      <workItem from="1607752447013" duration="492000" />
+      <workItem from="1607752447013" duration="871000" />
+      <workItem from="1607765785856" duration="2000" />
+      <workItem from="1607803678093" duration="116000" />
+      <workItem from="1607803802493" duration="489000" />
+      <workItem from="1607813747711" duration="595000" />
+      <workItem from="1607818667423" duration="1924000" />
+      <workItem from="1607834676877" duration="1000" />
+      <workItem from="1607834815227" duration="2000" />
+      <workItem from="1607909054278" duration="2646000" />
+      <workItem from="1607918393975" duration="2825000" />
+      <workItem from="1608004106955" duration="6000" />
     </task>
     <servers />
   </component>
